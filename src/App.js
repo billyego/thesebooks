@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
-import Home from "./components/Home";
-import CollectionOfCards from "./components/CollectionOfCards";
-import NewBook from "./components/NewBook";
-import BookDetails from "./components/BooksDetails";
-import NavBar from "./components/NavBar";
+import Home from "./Home";
+import CollectionOfCards from "./CollectionOfCards";
+import NewBook from "./NewBook";
+import BookDetails from "./BooksDetails";
+import NavBar from "./NavBar";
 
 function App() {
   return (
